@@ -95,7 +95,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'curso_sistema_erp',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': '123456789',
         'PORT': 3306
     }
 }
