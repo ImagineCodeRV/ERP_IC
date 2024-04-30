@@ -1,8 +1,5 @@
 
-# 💻📱 Sistema de Gestão Empresarial (ERP)
-
-Neste curso mergulhamos a fundo na construção de um Sistema de Gestão Empresarial completo utilizando tecnologias de última geração: ReactJS e Django Rest Framework.
-
+# 💻📱 Sistema de Gestão Empresarial (ERP) Back-End
 
 ## ⛏️ Instalação
 
