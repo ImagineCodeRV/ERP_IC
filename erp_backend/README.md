@@ -6,6 +6,74 @@ Neste curso mergulhamos a fundo na construção de um Sistema de Gestão Empresa
 
 ## ⛏️ Instalação
 
+## Linux 
+Todos os passos são feitos na pasta do erp_backend, para acessa-lá, bas digitar no prompt de comando
+
+```bash
+  cd erp_backend
+```
+
+Crie um Ambiente Virtual para poder rodar o Python
+
+```bash
+  python3 -m venv venv
+```
+
+Ative o Ambiente Virtual
+
+```bash
+  source venv/bin/activate
+```
+Instale todos os requerimentos
+
+```bash
+  pip install -r requirements.txt
+```
+Acesse o Banco de Dados com
+
+```bash
+  python3 manage.py migrate
+```
+
+Crie e servidor e execute o programa
+
+```bash
+  python3 manage.py runserver
+```
+
+## Windows
+
+Todos os passos são feitos na pasta do erp_backend, para acessa-lá, bas digitar no prompt de comando
+
+```bash
+  cd erp_backend
+```
+
+Crie um Ambiente Virtual para poder rodar o Python
+
+```bash
+  py -m venv venv
+```
+
+Ative o Ambiente Virtual
+
+```bash
+  venv/Scripts/Activate.ps1
+ou
+  venv/Scripts/Activate.bat
+```
+
+Instale todos os requerimentos
+
+```bash
+  pip install -r requirements.txt
+```
+Acesse o Banco de Dados com
+
+```bash
+  py manage.py migrate
+```
+
 Execute o projeto com Python
 
 ```bash
