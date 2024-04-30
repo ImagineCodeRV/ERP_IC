@@ -19,6 +19,10 @@ Após a instalação das bibliotecas, vamos instalar mais 3 adicionais
   npm i redux react-redux@8.0 @reduxjs/toolkit@1
 ```
 
+```bash
+  npm i axios
+```
+
 Agora só iniciar o servidor
 
 ```bash
